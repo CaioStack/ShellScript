@@ -1,5 +1,5 @@
 #!/bin/bash
-# TEMA 03 - Backup incremental
+# Backup incremental
 
 ORIGEM=$1
 DESTINO=$2
