@@ -1,5 +1,5 @@
 #!/bin/bash
-# TEMA 02 - Backup completo com rotação
+# Backup completo com rotação
 
 # Diretório de origem (o que vai ser copiado)
 ORIGEM=$1
