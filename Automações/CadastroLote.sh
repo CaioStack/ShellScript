@@ -1,5 +1,5 @@
 #!/bin/bash
-# TEMA 08 - Cadastro de usuários em lote
+# Cadastro de usuários em lote
 # ATENÇÃO: precisa rodar com sudo
 
 LISTA=$1
