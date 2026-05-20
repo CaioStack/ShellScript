@@ -1,5 +1,5 @@
 #!/bin/bash
-# TEMA 07 - Configurador de permissões em lote
+# Configurador de permissões em lote
 
 LOG="permissoes_$(date '+%Y%m%d_%H%M%S').log"
 
