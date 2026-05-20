@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Buscar arquivos por nome ou conteúdo
+
 while true; do
 
     echo "1 - Buscar por nome"
