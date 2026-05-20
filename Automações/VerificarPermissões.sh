@@ -1,5 +1,5 @@
 #!/bin/bash
-# TEMA 06 - Verificador de permissões de arquivos
+# Verificador de permissões de arquivos
 
 DIRETORIO=$1
 
