@@ -1,5 +1,5 @@
 #!/bin/bash
-# TEMA 04 - Backup diferencial
+# Backup diferencial
 
 ORIGEM=$1
 DESTINO=$2
