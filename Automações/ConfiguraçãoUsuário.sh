@@ -1,5 +1,5 @@
 #!/bin/bash
-# TEMA 13 - Script de configuração de novo usuário
+# Script de configuração de novo usuário
 # ATENÇÃO: precisa rodar com sudo
 
 LOG="config_usuario_$(date '+%Y%m%d_%H%M%S').log"
