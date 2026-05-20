@@ -1,5 +1,5 @@
 #!/bin/bash
-# TEMA 14 - Painel de saúde do sistema
+# Painel de saúde do sistema
 
 clear
 
