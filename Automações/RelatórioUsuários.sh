@@ -1,5 +1,5 @@
 #!/bin/bash
-# TEMA 09 - Relatório e auditoria de usuários
+# Relatório e auditoria de usuários
 
 RELATORIO="auditoria_$(date '+%Y%m%d_%H%M%S').txt"
 
