@@ -1,6 +1,4 @@
 #!/bin/bash
-# TEMA 12 - Agendador de limpeza de arquivos temporários
-#
 # Para agendar via cron (rodar todo dia às 02:00), execute:
 #   crontab -e
 # E adicione a linha:
