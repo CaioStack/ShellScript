@@ -1,5 +1,5 @@
 #!/bin/bash
-# TEMA 10 - Monitor interativo de processos
+# Monitor interativo de processos
 
 LOG="monitor_$(date '+%Y%m%d_%H%M%S').log"
 
