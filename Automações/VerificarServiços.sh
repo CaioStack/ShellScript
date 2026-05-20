@@ -1,5 +1,5 @@
 #!/bin/bash
-# TEMA 11 - Verificador de serviços essenciais
+# Verificador de serviços essenciais
 
 LOG="servicos_$(date '+%Y%m%d_%H%M%S').log"
 RELATORIO="relatorio_servicos_$(date '+%Y%m%d_%H%M%S').txt"
