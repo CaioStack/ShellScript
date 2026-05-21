@@ -1,5 +1,4 @@
 #!/bin/bash
-# TEMA 01 - Organizador de arquivos por extensão
 
 # Diretório que vai ser organizado (o usuário passa como argumento)
 DIRETORIO=$1
