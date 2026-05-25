@@ -1,6 +1,6 @@
 # 🐚 ShellScript
 
-Repositório com scripts Bash para Linux — exercícios, automação de tarefas e gerenciamento do sistema.
+Repositório com scripts Bash para Linux — exercícios, automação de tarefas, gerenciamento do sistema e utilitários gerais.
 
 ## 🚀 Como usar
 
