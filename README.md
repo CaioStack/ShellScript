@@ -2,6 +2,11 @@
 
 Repositório com scripts Bash para Linux — exercícios, automação de tarefas, gerenciamento do sistema e utilitários gerais.
 
+💡 **Aviso**
+
+Cada arquivo tem exemplos prontos e exercícios resolvidos.
+Exceto : Automações.
+
 ## 🚀 Como usar
 
 Clone o repositório:
