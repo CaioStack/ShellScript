@@ -5,6 +5,7 @@ Repositório com scripts Bash para Linux — exercícios, automação de tarefas
 💡 **Aviso**
 
 Cada arquivo tem exemplos prontos e exercícios resolvidos.
+
 Exceto : Automações.
 
 ## 🚀 Como usar
